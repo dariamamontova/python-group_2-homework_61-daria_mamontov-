@@ -1,0 +1,69 @@
+.content .portfolio h3 {
+	text-align: center;
+}
+
+.content .portfolio span {
+	color: #5bbc2e;
+}
+
+.portfolio .box {
+	text-align: center;
+}
+
+.portfolio .box a {
+	font-size: 12px;
+	color: #fff;
+	font-weight: 800;
+	text-transform: uppercase;
+	padding: 10px 33px;
+	border-radius: 1px;
+}
+
+.portfolio .box a:hover {
+	background: #8d8d8d;
+}
+
+.portfolio .card_body {
+	padding: 10px 10px;
+}
+
+
+.portfolio .box h5 {
+	font-size: 12px;
+	color: #515151;
+	font-weight: 800;
+	text-transform: uppercase;
+	margin-top: 30px;
+}
+
+.portfolio .box_1 a {
+	background: #2ba8e0;
+}
+
+.portfolio .box_2 a {
+	background: #5dbb2f;
+}
+
+.portfolio .box_3 a {
+	background: #c42ecb;
+}
+
+.portfolio .box_4 a {
+	background: #dac10f;
+}
+
+.portfolio .box_5 a {
+	background: #5abd2e;
+}
+
+.portfolio .box_6 a {
+	background: #dac10f;
+}
+
+.portfolio .box_7 a {
+	background: #2ca7e0;
+}
+
+.portfolio .box_8 a {
+	background: #c42fc9;
+}
